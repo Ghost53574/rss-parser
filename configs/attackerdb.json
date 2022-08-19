@@ -1,0 +1,10 @@
+{ 
+    "name": "AttackerKB", 
+    "uri": "https://www.attackerkb.com/topics",
+    "next": "page",
+    "description": "Attackerkb is an information resource to view up-to-date CVE's", 
+    "timeout": 5000,
+    "tags": [ "div", "a" ],
+    "sections": [ "topic-feature-container" ],
+    "elements": [ "attacker-value", "title", "reference-and-data", "description", "topic-container-link" ]
+}
